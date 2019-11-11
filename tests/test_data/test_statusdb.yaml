@@ -1,0 +1,5 @@
+statusdb:
+    username: test.user
+    password: s0mePassword!
+    url: some.url.se
+    port: 1234
